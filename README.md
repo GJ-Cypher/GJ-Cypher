@@ -73,8 +73,13 @@ Sou apaixonado por transformar ideias em sistemas úteis, organizados e automati
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GJ-Cypher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=A78BFA&ring_color=38BDF8&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats de GJ-Cypher"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJ-Cypher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&cache_seconds=7200" alt="Linguagens mais usadas por GJ-Cypher"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GJ-Cypher&theme=tokyonight" alt="Resumo do perfil GitHub de GJ-Cypher"/>
+
+<br/>
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GJ-Cypher&theme=tokyonight" alt="Estatísticas do GitHub de GJ-Cypher"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GJ-Cypher&theme=tokyonight" alt="Linguagens por repositório de GJ-Cypher"/>
 
 <br/>
 <br/>

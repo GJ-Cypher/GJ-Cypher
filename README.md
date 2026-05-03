@@ -63,12 +63,62 @@ Sou apaixonado por transformar ideias em sistemas úteis, organizados e automati
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/API%20REST-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 </div>
+
+---
+
+## Competências em prática
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Front-end</h3>
+      <p>Criação de interfaces com HTML, CSS e JavaScript, pensando em responsividade, clareza visual e experiência de uso.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Back-end e dados</h3>
+      <p>Desenvolvimento com Python, PostgreSQL e APIs REST para automações, integrações e sistemas conectados a dados reais.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/API%20REST-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="API REST"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Cloud e versionamento</h3>
+      <p>Organização de código, controle de versões e publicação de projetos usando Git, GitHub e serviços em nuvem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Suporte e comunicação</h3>
+      <p>Base técnica em montagem e manutenção de hardware, resolução de problemas e inglês técnico em evolução.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Hardware-64748B?style=flat-square&logo=windows&logoColor=white" alt="Hardware"/>
+        <img src="https://img.shields.io/badge/Troubleshooting-06B6D4?style=flat-square" alt="Troubleshooting"/>
+        <img src="https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico%20%2F%20Intermedi%C3%A1rio-22C55E?style=flat-square&logo=googletranslate&logoColor=white" alt="Inglês básico/intermediário"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

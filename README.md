@@ -5,8 +5,11 @@
 <h3>Análise e Desenvolvimento de Sistemas | Automação | Inteligência Artificial</h3>
 
 <p>
-  <a href="https://cypherdev.netlify.app/" target="_blank">
+  <a href="https://gj-cypher.github.io/Portifolio-Gilmar/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://cypherdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Cypher%20Dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Cypher Dev"/>
   </a>
   <a href="https://linkedin.com/in/gjdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -157,8 +160,11 @@ Sou apaixonado por transformar ideias em sistemas úteis, organizados e automati
 <h3>Vamos construir algo inteligente?</h3>
 
 <p>
-  <a href="https://cypherdev.netlify.app/" target="_blank">
+  <a href="https://gj-cypher.github.io/Portifolio-Gilmar/" target="_blank">
     <img src="https://img.shields.io/badge/Conhecer%20portfolio-38BDF8?style=for-the-badge&logo=firefoxbrowser&logoColor=111827" alt="Conhecer portfolio"/>
+  </a>
+  <a href="https://cypherdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Cypher%20Dev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Cypher Dev"/>
   </a>
   <a href="https://linkedin.com/in/gjdev" target="_blank">
     <img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar no LinkedIn"/>
